@@ -1,8 +1,23 @@
-# React + Vite
+# Project Name
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This is the project related to the comment section of any chat application. Users will be able to add a new comment, edit the comment, add the replies, and delete the comment.
 
-Currently, two official plugins are available:
+## Table of Contents
+1. [Installation](#installation)
+2. [Skills Used](#skills-used)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/ParakhSrivastava/REACT-JS/edit/main/comments-management-system/README.md
+
+# Navigate to the project directory
+cd comments-management-system
+
+# Install dependencies
+npm install
+
+# Run the project
+npm start
