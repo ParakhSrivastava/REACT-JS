@@ -21,3 +21,10 @@ npm install
 
 # Run the project
 npm start
+```
+
+## Skills used
+1. React (custom hooks, state management, structured code)
+2. Data structures
+3. JS
+4. HTML/CSS
