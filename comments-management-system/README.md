@@ -1,4 +1,4 @@
-# Project Name
+# Comment Management System
 
 ## Description
 This is the project related to the comment section of any chat application. Users will be able to add a new comment, edit the comment, add the replies, and delete the comment.
