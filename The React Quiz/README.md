@@ -5,9 +5,6 @@ This interactive quiz application allows users to test their knowledge through m
 ---
 
 ## 🗼️ Live demo: https://parakh-react-quiz.vercel.app/
-
----
-
 ## ✨ Features
 
 - ✅ Dynamic question flow with **randomized multiple-choice quizzes**  
